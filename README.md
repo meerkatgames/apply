@@ -90,8 +90,8 @@
  - 전체 프로세스는 [스크럼](https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%81%AC%EB%9F%BC_(%EC%95%A0%EC%9E%90%EC%9D%BC_%EA%B0%9C%EB%B0%9C_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4))의 방식으로 진행되며 구체적인 일정 관리는 [Trello](https://trello.com) 와 [Monday](https://monday.com)를 사용합니다.
  - 소스는 GIT로 관리하고 있습니다.
  - 자동 빌드 시스템은 [Jenkins](https://jenkins.io)를 구축하여 사용하고 있습니다.
- - 문서화는 아틀라시안의 위키 시스템인 Confluence와 구글 드라이브를 함께 사용합니다.
- - 내부 커뮤니케이션은 Slack을 활용하고 있습니다.
+ - 문서화는 아틀라시안의 위키 시스템인 [Confluence](https://www.atlassian.com/software/confluence)와 구글 드라이브를 함께 사용합니다.
+ - 내부 커뮤니케이션은 Slack(https://slack.com)을 활용하고 있습니다.
  
 ## 지원 방법
 
