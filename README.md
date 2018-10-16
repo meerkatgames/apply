@@ -2,7 +2,7 @@
 
 미어캣게임즈에서 모바일 게임을 함께 개발하고 서비스할 팀원을 모집하고 있습니다.
 
-![alt apply](./apply_title.jpg)
+![alt apply](./files/apply_title.jpg)
 
 ## 채용 분야
 
