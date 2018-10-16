@@ -54,11 +54,17 @@
 옛날 자료긴 하지만, 미어캣게임즈가 걸어온 길을 좀 더 자세히 알고 싶으시다면 다음 링크의 슬라이드를 참고 바랍니다.
 
  - [<NDC2015 : 게임 스타트업 시작하기 – 미어캣 게임즈의 사례>](https://www.slideshare.net/birdkr/ndc-2015-48425021)
- - 게임 소개
-   - 아레나 마스터즈
-     - [구글 플레이 링크](https://play.google.com/store/apps/details?id=com.meerkatgames.amlegend)
-     - [트레일러 동영상](https://www.youtube.com/watch?v=UQQpsVrGbbY)
+ 
+## 게임 소개
+ - 아레나 마스터즈
+   - [트레일러 동영상](https://www.youtube.com/watch?v=UQQpsVrGbbY)
+   - [구글 플레이 링크](https://play.google.com/store/apps/details?id=com.meerkatgames.amlegend)
+ - 먼치킨.io
+   - [트레일러 동영상](https://www.youtube.com/watch?v=yhwDDWxUYzQ) 
+   - [구글 플레이 링크](https://play.google.com/store/apps/details?id=com.meerkatgames.munchkinio)
 
+ 
+ 
 ## 우대 사항
 
  - 스타트업에서 재미있는 일을 해보고 싶으신 분
