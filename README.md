@@ -30,21 +30,20 @@
 
  - 근무지 : 서울시 강남역 근처(플래티넘 타워)
  - 연봉제, 4대 보험, 퇴직금, 스톡 옵션, 인센티브
- - 주 5일제, 탄력 근무제(9시~11시 자율 출근, 일 8시간 근무)
- - 매월 문화비 20만원 지급 (지정 식당 외 식대, 음료, 도서, 영화, 공연, 헬스, 게임, 장비 구입, 여행, 의료비, 교육 등)
+ - 주 5일제, 탄력 근무제(오전 8~11시 자율 출근, 하루 업무 시간 : 8시간)
+ - 매월 문화비 20만원 지급 (지정 식당 외 식대, 음료, 도서, 영화, 공연, 운동, 게임, 장비 구입, 여행, 의료비, 교육 등)
  - 설날, 추석, 생일, 결혼기념일 선물 지급 및 오후 4시 퇴근
- - 휴가 : 법정 연차
  - 식대 제공
  - 수요미식회 : 매주 수요일은 다함께 맛집 탐방
- - 커피, 과자, 음료, 과일 등 다양한 간식 무한 제공 – 링크
+ - 커피, 과자, 음료, 과일 등 다양한 간식 무한 제공 – [링크](https://www.facebook.com/meerkatgames/posts/1832764870335521)
  - 도서 구입 지원
  - 야근시 택시비 지급
+ - 각종 경조사 지원금 
  - 정기적, 비정기적 다양한 사내 이벤트
-   - 사내 게임잼
-   - 성탄절 이벤트
-   - 사생대회
-   - 이그나이트
- - 각종 경조사 지원금
+   - [사내 게임잼](https://www.facebook.com/meerkatgames/posts/1784741135137895)
+   - [사생대회](https://www.facebook.com/meerkatgames/posts/1710754485869894)
+   - [성탄절 이벤트](https://www.facebook.com/meerkatgames/posts/1818936188385056)   
+   - Ignite Meerkat
 
 
 ## 회사 소개
@@ -58,11 +57,10 @@
 ## 게임 소개
  - 아레나 마스터즈
    - [트레일러 동영상](https://www.youtube.com/watch?v=UQQpsVrGbbY)
-   - [구글 플레이 링크](https://play.google.com/store/apps/details?id=com.meerkatgames.amlegend)
+   - [구글 플레이 링크](https://play.google.com/store/apps/details?id=com.meerkatgames.amlegend), [앱스토어 링크](https://itunes.apple.com/kr/app/%EC%95%84%EB%A0%88%EB%82%98-%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88-%EC%A0%84%EC%84%A4%EC%9D%98-%EC%8B%9C%EC%9E%91/id1347879870?mt=8)
  - 먼치킨.io
    - [트레일러 동영상](https://www.youtube.com/watch?v=yhwDDWxUYzQ) 
-   - [구글 플레이 링크](https://play.google.com/store/apps/details?id=com.meerkatgames.munchkinio)
-
+   - [구글 플레이 링크](https://play.google.com/store/apps/details?id=com.meerkatgames.munchkinio), [앱스토어 링크](https://itunes.apple.com/kr/app/%EB%A8%BC%EC%B9%98%ED%82%A8-io/id1320425776?mt=8)
  
  
 ## 우대 사항
