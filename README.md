@@ -91,7 +91,7 @@
  - 소스는 GIT로 관리하고 있습니다.
  - 자동 빌드 시스템은 [Jenkins](https://jenkins.io)를 구축하여 사용하고 있습니다.
  - 문서화는 아틀라시안의 위키 시스템인 [Confluence](https://www.atlassian.com/software/confluence)와 구글 드라이브를 함께 사용합니다.
- - 내부 커뮤니케이션은 Slack(https://slack.com)을 활용하고 있습니다.
+ - 내부 커뮤니케이션은 [Slack](https://slack.com)을 활용하고 있습니다.
  
 ## 지원 방법
 
