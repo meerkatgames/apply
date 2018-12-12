@@ -57,7 +57,7 @@
  - [<NDC2015 : 게임 스타트업 시작하기 – 미어캣 게임즈의 사례>](https://www.slideshare.net/birdkr/ndc-2015-48425021)
  
 ## 게임 소개
- - Project NL (개발중)
+ - Project NL (개발중, 2019년 )
    - [트레일러 동영상](https://youtu.be/siEfvy46dpU)
  - 먼치킨.io
    - [트레일러 동영상](https://www.youtube.com/watch?v=yhwDDWxUYzQ) 
