@@ -18,10 +18,11 @@
 ## 프로젝트 소개
 
  - **Project NL**
-   - **새로운 스타일의 차세대 MOBA 게임**
+   - **배틀로얄 MOBA 게임**
    - 플랫폼 : 스팀(PC), 모바일
-   - 퍼블리셔 : 비공개
+   - 퍼블리셔 : 라인게임즈
    - [Art 참고 이미지](./files/nl_01.png)
+   - [트레일러 동영상](https://youtu.be/siEfvy46dpU)   
  - **Project YC**
    - 캐주얼한 실시간 협력 게임
    - 플랫폼 : 모바일
@@ -58,7 +59,7 @@
  
 ## 게임 소개
  - Project NL (개발중)
-   - [트레일러 동영상(https://youtu.be/siEfvy46dpU)
+   - [트레일러 동영상](https://youtu.be/siEfvy46dpU)
  - 먼치킨.io
    - [트레일러 동영상](https://www.youtube.com/watch?v=yhwDDWxUYzQ) 
    - [구글 플레이 링크](https://play.google.com/store/apps/details?id=com.meerkatgames.munchkinio), [앱스토어 링크](https://itunes.apple.com/kr/app/%EB%A8%BC%EC%B9%98%ED%82%A8-io/id1320425776?mt=8)
