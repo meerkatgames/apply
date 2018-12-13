@@ -25,6 +25,7 @@
    - 네이버 웹툰 '유미의 세포들' - 파티형 협력 게임
    - 플랫폼 : 모바일
    - [Art 참고 이미지](./files/yc_01.png)
+   - [네이버 웹툰 유미의 세포들](https://comic.naver.com/webtoon/list.nhn?titleId=651673)
 
 
 ## 근무 조건 및 복지
