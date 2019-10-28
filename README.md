@@ -6,9 +6,9 @@
 
 ## 채용 분야
 
- - 3D 캐릭터 애니메이터
+ - 서버 프로그래머
  - 클라이언트 프로그래머
-  - 게임 디자이너(기획자)
+ - 게임 디자이너(전투 기획)
 
 
 ## 프로젝트 소개
@@ -19,12 +19,7 @@
    - 퍼블리셔 : 라인게임즈
    - [Art 참고 이미지](./files/nl_01.png)
    - [트레일러 동영상](https://youtu.be/siEfvy46dpU)   
- - **Project YC**
-   - 네이버 웹툰 '유미의 세포들' - 파티형 협력 게임
-   - 플랫폼 : 모바일
-   - [Art 참고 이미지](./files/yc_01.png)
-   - [네이버 웹툰 유미의 세포들](https://comic.naver.com/webtoon/list.nhn?titleId=651673)
-
+ 
 
 ## 근무 조건 및 복지
 
@@ -93,7 +88,7 @@
  - 미어캣게임즈의 모든 프로젝트는 **유니티3D**를 사용하여 제작하고 있습니다.
  - 서버는 **ASP.NET MVC5**를 사용하고 있으며, DB는 **MySQL**과 함께 NoSQL인 **DynamoDB**를 사용하고 있습니다.
  - 모든 서버는 **AWS**로 관리하고 있습니다.
- - 전체 프로세스는 [**스크럼**](https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%81%AC%EB%9F%BC_(%EC%95%A0%EC%9E%90%EC%9D%BC_%EA%B0%9C%EB%B0%9C_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4))의 방식으로 진행되며 구체적인 일정 관리는 [Trello](https://trello.com)를 사용합니다.
+ - 전체 프로세스는 [**스크럼**](https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%81%AC%EB%9F%BC_(%EC%95%A0%EC%9E%90%EC%9D%BC_%EA%B0%9C%EB%B0%9C_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4))의 방식으로 진행되며 구체적인 일정 관리는 [Jira](https://www.atlassian.com/software/jira)와 [Trello](https://trello.com)를 사용합니다.
  - 소스는 Gitlab으로 관리하고 있습니다.
  - 자동 빌드 시스템은 [Jenkins](https://jenkins.io)를 구축하여 사용하고 있습니다.
  - 문서화는 아틀라시안의 위키 시스템인 [Confluence](https://www.atlassian.com/software/confluence)와 구글 드라이브를 함께 사용합니다.
