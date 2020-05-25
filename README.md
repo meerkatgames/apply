@@ -46,20 +46,24 @@
 
  - **로얄 크라운**
    - 장르 : 배틀로얄 MOBA
+   - 현재 소프트런칭 서비스 중 (한국 미출시)
    - 플랫폼 : PC(Steam)와 모바일 크로스 플랫폼
+     - 구글 플레이 : https://play.google.com/store/apps/details?id=com.linegames.rc
+     - 앱스토어 : https://apps.apple.com/us/app/royalcrown/id1473218768
+     - 스팀 : https://store.steampowered.com/app/1094710/Royal_Crown/
    - 퍼블리셔 : 라인게임즈
-   - [트레일러 동영상](https://youtu.be/siEfvy46dpU)   
+   - [프로모션 영상](https://www.youtube.com/watch?v=CTKGJy3Y810)
  
 
 ## 근무 조건 및 복지
 
- - 근무지 : 서울시 강남역 근처(플래티넘 타워)
+ - 근무지 : 서울시 강남역 근처(비젼타워)
  - 연봉제, 4대 보험, 퇴직금, 스톡 옵션, 인센티브
- - **탄력 근무제**(오전 11시까지 자율 출근)
- - **매월 문화비 20만원** 지급 (식대, 음료, 도서, 영화, 공연, 운동, 게임, 장비 구입 등)
+ - **탄력 근무제** - 오전 11시까지 자율 출근
+ - **매월 문화비 25만원** 지급 - 식대, 음료, 도서, 영화, 공연, 운동, 게임, 장비 구입 등
  - 설날, 추석, 생일, 결혼기념일 선물 지급 및 오후 4시 퇴근
   - **수요미식회** : 매주 수요일은 다함께 맛집 탐방
- - **커피, 과자, 음료, 과일 등 다양한 간식 무한 제공** – [링크](https://www.facebook.com/meerkatgames/posts/1832764870335521)
+ - **커피, 과자, 음료, 과일 등 다양한 간식 제공**
  - 도서 구입 지원
  - 야근시 식대, 택시비 지급
  - 각종 경조사 지원금 
@@ -72,7 +76,7 @@
 
 ## 회사 소개
 
-미어캣게임즈는 유수의 베테랑 개발자들이 모여 창업한 회사입니다. 모바일 실시간 PVP 게임을 주력으로 개발하고 있으며, <아레나 마스터즈>와 <먼치킨.io> 게임을 서비스하고 있습니다. 현재 차세대 MOBA 게임을 목표로 개발중이며, 향후 다양하고 멋진 게임을 만들어나가는 글로벌 게임 회사로 성장하려 하고 있습니다.
+미어캣게임즈는 유수의 베테랑 개발자들이 모여 창업한 회사입니다. 모바일 실시간 PVP 게임을 주력으로 개발하고 있으며, <로얄 크라운>, <아레나 마스터즈>와 <먼치킨.io> 게임을 서비스하고 있습니다. 현재 차세대 MOBA 게임을 목표로 <로얄 크라운>을 개발중이며, 향후 다양하고 멋진 게임을 만들어나가는 글로벌 게임 회사로 성장하려 하고 있습니다.
 
 옛날 자료긴 하지만, 미어캣게임즈가 걸어온 길을 좀 더 자세히 알고 싶으시다면 다음 링크의 슬라이드를 참고 바랍니다.
 
@@ -82,16 +86,6 @@
 
  - [(2018.12.12)라인게임즈, 6종의 모바일-3종의 PC-1종의 콘솔 라인업](http://bbs.ruliweb.com/news/read/116433)
  
- 
-## 게임 소개
- - 로얄 크라운 (개발중, 2020년 출시)
-   - [트레일러 동영상](https://youtu.be/siEfvy46dpU)
- - 먼치킨.io
-   - [트레일러 동영상](https://www.youtube.com/watch?v=yhwDDWxUYzQ) 
-   - [구글 플레이 링크](https://play.google.com/store/apps/details?id=com.meerkatgames.munchkinio), [앱스토어 링크](https://itunes.apple.com/kr/app/%EB%A8%BC%EC%B9%98%ED%82%A8-io/id1320425776?mt=8)
- - 아레나 마스터즈
-   - [트레일러 동영상](https://www.youtube.com/watch?v=UQQpsVrGbbY)
-   - [구글 플레이 링크](https://play.google.com/store/apps/details?id=com.meerkatgames.amlegend), [앱스토어 링크](https://itunes.apple.com/kr/app/%EC%95%84%EB%A0%88%EB%82%98-%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88-%EC%A0%84%EC%84%A4%EC%9D%98-%EC%8B%9C%EC%9E%91/id1347879870?mt=8)
  
  
 ## 우대 사항
@@ -116,7 +110,7 @@
 ## 기술 스택
 
  - 미어캣게임즈의 모든 프로젝트는 **유니티3D**를 사용하여 제작하고 있습니다.
- - 서버는 **ASP.NET MVC5**를 사용하고 있으며, DB는 **MySQL**과 함께 NoSQL인 **DynamoDB**를 사용하고 있습니다.
+ - 서버는 **ASP.NET MVC5**를 사용하고 있으며, DB는 **MySQL**, **Redis** 등을 사용하고 있습니다.
  - 모든 서버는 **AWS**로 관리하고 있습니다.
  - 전체 프로세스는 [**스크럼**](https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%81%AC%EB%9F%BC_(%EC%95%A0%EC%9E%90%EC%9D%BC_%EA%B0%9C%EB%B0%9C_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4))의 방식으로 진행되며 구체적인 일정 관리는 [Jira](https://www.atlassian.com/software/jira)와 [Trello](https://trello.com)를 사용합니다.
  - 소스는 Gitlab으로 관리하고 있습니다.
